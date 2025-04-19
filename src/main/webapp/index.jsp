@@ -10,8 +10,8 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to Home Appliances</h1>
-     <h1>hi ra nana pandus</h1>
+      <h1>chitti</h1>
+     <h1>hi ra nana pandu  ela unavu ra</h1>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
